@@ -1,0 +1,17 @@
+﻿Build started 21/01/2018 11:42:31.
+     1>Project "C:\Users\USER\Desktop\Afeka\HW3_LiranNagar\HW3_LiranNagar\HW3_LiranNagar.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\HW3_LiranNagar.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+       Link:
+         All outputs are up-to-date.
+         HW3_LiranNagar.vcxproj -> C:\Users\USER\Desktop\Afeka\HW3_LiranNagar\Debug\HW3_LiranNagar.exe
+       FinalizeBuildStatus:
+         Deleting file "Debug\HW3_LiranNagar.unsuccessfulbuild".
+         Touching "Debug\HW3_LiranNagar.lastbuildstate".
+     1>Done Building Project "C:\Users\USER\Desktop\Afeka\HW3_LiranNagar\HW3_LiranNagar\HW3_LiranNagar.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.09
